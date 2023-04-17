@@ -13,6 +13,8 @@ Join our Rust user group, we offer:
 1. Premium paid software services(built for profit ofc)
 1. Live meeting charges do not cover food and drinks(do you think we're Jeff Bozo or something)
 
+Join [here](https://discord.gg/N4BMj9ckWs)
+
 ## Promotional materials
 Get the Rust logo on a sticker, T-shirt, sweater, cup, your skin, etc. featuring our iconic design endorsed by the rust foundation:
 
